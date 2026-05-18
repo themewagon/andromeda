@@ -1,9 +1,9 @@
 {
   "site": {
     "title": "Andromeda Light Nextjs",
-    "base_url": "/",
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.svg",
+    "base_url": "https://themewagon.github.io/andromeda",
+    "favicon": "/andromeda/images/favicon.png",
+    "logo": "/andromeda/images/logo.svg",
     "logo_width": "240",
     "logo_height": "34",
     "logo_text": "Andromeda"
@@ -17,7 +17,7 @@
     "tag_manager_id": "",
     "contact_form_action": "#",
     "footer_content": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
-    "copyright": "Designed & Developed By [Themefisher](https:www.themefisher.com)"
+    "copyright": "Designed & Developed By <a href=\"https://themefisher.com\" target=\"_blank\" rel=\"noopener noreferrer\">Themefisher</a> • Distributed by <a href=\"https://themewagon.com\" target=\"_blank\" rel=\"noopener noreferrer\">Themewagon</a>"
   },
   "contact_info": {
     "phone": "+887887998",

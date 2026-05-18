@@ -1,9 +1,9 @@
 ---
 title: Why you should launch your product in phases not after done
-image: /images/blog/02.jpg
+image: /andromeda/images/blog/02.jpg
 author:
   name: Derick Barker
-  avatar: /images/author/derick.jpg
+  avatar: /andromeda/images/author/derick.jpg
 date: 2022-04-04T05:00:00Z
 draft: false
 ---
